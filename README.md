@@ -94,13 +94,11 @@ I'm a **Junior Data Scientist at Oakwood Agri-Tech Private Limited**, working at
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanika010dsi&show_icons=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanika010ds&show_icons=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanika010dsi&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanika010ds&layout=compact&hide_border=true)
 
 </div>
-
-> If your GitHub username is different from `kanika010dsi`, replace it in the two image URLs above.
 
 ## 🤝 Let's Connect
 
