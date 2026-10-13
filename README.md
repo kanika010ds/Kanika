@@ -100,13 +100,6 @@ I'm a **Junior Data Scientist at Oakwood Agri-Tech Private Limited**, working at
 
 </div>
 
-## 🤝 Let's Connect
-
-I'm interested in **Geospatial AI, Earth Observation, Computer Vision, Remote Sensing, and Applied Machine Learning**.
-
-- [LinkedIn](https://www.linkedin.com/in/kanika-2b4209213/)
-- [Email](mailto:kanika.ds.engineer@gmail.com)
-
 ---
 
 <div align="center"><i>Thanks for visiting my profile! 🌍</i></div>
